@@ -1,0 +1,56 @@
+# WOODZ – CINEMA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+참 오랜만이네
+잠시 잊고 지낸 나의 cinema
+다시 꺼낸 필름 속의 너와 나
+Brown eyes
+여전히 반짝이는 너의 limelight
+속에 멈춰 버린 우리 timeline
+텅 빈 객석의 cinema
+미소 지었나 봐 나도 모르게
+그리웠나 봐
+두고 온 게
+두리번거렸지 너도 모르게
+앉아 있을까
+바보 같아
+돌아와버린 cinema
+빛이 바래버린 우리와
+다시 바라보는 마지막
+One last time
+You are out of sight
+But I can’t get it out of my mind
+많이 보고 싶었나 봐
+우리가
+One last time
+아무 말 없이
+기대서 그대로
+마지막까지 어긋나버린
+우리의 tied ending
+불이 켜진 후에도 나는 한참을
+그 자리에서 바보 같아
+돌아와버린 cinema
+빛이 바래버린 우리와
+다시 바라보는 마지막
+One last time
+You are out of sight
+But I can’t get it out of my mind
+많이 보고 싶었나 봐
+우리가
+One last time
+다시 안 올 것 같아
+한참 지난 우리 로맨스
+막이 내린 채
+Again, again
+돌아와버린 cinema
+빛이 바래버린 우리와
+다시 바라보는 마지막
+One last time
+You are out of sight
+But I can’t get it out of my mind
+많이 보고 싶었나 봐
+우리가
+One last time
+```
